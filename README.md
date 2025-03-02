@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/504babe67ae701cb458f8.jpg" alt="Mavi Logo">
+  <img src="https://envs.sh/bCb.jpg" alt="𝗦𝗮𝗿𝗮𝗵 Logo">
 </p>
 <h1 align="center">
   Mavi Movie V3
